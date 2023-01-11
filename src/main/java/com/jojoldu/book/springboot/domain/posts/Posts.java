@@ -3,7 +3,6 @@ package com.jojoldu.book.springboot.domain.posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.mariadb.jdbc.internal.com.read.resultset.ColumnDefinition;
 
 import javax.persistence.*;
 
